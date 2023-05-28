@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BirthdayAPP/static/css/main.c6e109cb.css",
-    "main.js": "/BirthdayAPP/static/js/main.b56d9684.js",
+    "main.css": "/BirthdayAPP/static/css/main.d2e27afa.css",
+    "main.js": "/BirthdayAPP/static/js/main.47dd18ee.js",
     "static/js/845.0e080697.chunk.js": "/BirthdayAPP/static/js/845.0e080697.chunk.js",
     "static/media/click.mp3": "/BirthdayAPP/static/media/click.b944d2a8eeb099fbeb17.mp3",
     "index.html": "/BirthdayAPP/index.html",
-    "main.c6e109cb.css.map": "/BirthdayAPP/static/css/main.c6e109cb.css.map",
-    "main.b56d9684.js.map": "/BirthdayAPP/static/js/main.b56d9684.js.map",
+    "main.d2e27afa.css.map": "/BirthdayAPP/static/css/main.d2e27afa.css.map",
+    "main.47dd18ee.js.map": "/BirthdayAPP/static/js/main.47dd18ee.js.map",
     "845.0e080697.chunk.js.map": "/BirthdayAPP/static/js/845.0e080697.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6e109cb.css",
-    "static/js/main.b56d9684.js"
+    "static/css/main.d2e27afa.css",
+    "static/js/main.47dd18ee.js"
   ]
 }
