@@ -44,7 +44,7 @@ body {
 .btn {
     position: absolute;
     top: 200px;
-    left: 144px;
+    left: 141px;
     width: 100px;
     height: 100px;
     border: none;
@@ -59,7 +59,7 @@ body {
 .countGlass {
     position: absolute;
     top: 350px;
-    left: 144px;
+    left: 141px;
     padding: 10px;
     border-radius: 10px;
     background-color: black;

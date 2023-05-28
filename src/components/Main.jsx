@@ -32,14 +32,14 @@ const Main = ( { toasts, audio } ) => {
     function Generator() {
         return (
             <div>
-                <div className="toast">
+               
                     {  click 
                     ?
                         <Gif />
                     :
-                        <h1>{ toast }</h1>
+                    <div className="toast"><h1>{ toast }</h1></div>
                     }
-                </div>
+                
                 { click 
                     ? <button onClick={clicked} className="btn" disabled><Loader /></button> 
                     : <button onClick={clicked} className="btn" >{ btn }</button> 
