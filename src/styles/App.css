@@ -28,11 +28,12 @@ body {
 
 .toast {
     text-align: center;
-    background: rgba(0, 0, 0, .7);
+    background: rgba(0, 0, 0, 1);
     padding: 15px;
     border-radius: 10px;
     animation: show 500ms;
     color: white;
+    font-size: 15px;
 }
 
 @keyframes show {
@@ -49,7 +50,7 @@ body {
     height: 100px;
     border: none;
     border-radius: 50%;
-    background: blue;
+    background: black;
     cursor: pointer;
     font-size: 18px;
     font-family: inherit;

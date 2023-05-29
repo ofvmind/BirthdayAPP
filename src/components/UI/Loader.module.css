@@ -13,9 +13,11 @@
 
 @keyframes rotate {
     from {
+        border: 7px dashed blue;
         transform: rotate(0deg);
     }
     to {
+        border: 7px dashed yellow;
         transform: rotate(360deg);
     }
 }
